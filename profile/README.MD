@@ -66,6 +66,7 @@ Our philosophy is simple: **zero-cost architecture, maximum impact.** Every proj
 
 | | |
 |---|---|
+| **Live App** | [ai-security-auditor.lovable.app](https://ai-security-auditor.lovable.app/ ) | 
 | **Stack** | React.js, Google Gemini API, Supabase, Vercel |
 | **Status** | Built &middot; Deployed |
 

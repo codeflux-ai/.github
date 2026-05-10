@@ -91,21 +91,6 @@ Our philosophy is simple: **zero-cost architecture, maximum impact.** Every proj
 
 ---
 
-## How We Build
-
-We follow a streamlined AI-assisted development pipeline that takes ideas from concept to production rapidly:
-
-| Step | Tool | Purpose |
-|:-----|:-----|:--------|
-| **Scaffold** | Lovable | Rapid UI/UX prototyping and initial structure |
-| **Refine** | Cursor | AI-assisted code refinement and iteration |
-| **Iterate** | Claude Code | Complex logic, debugging, and architecture |
-| **Deploy** | Vercel | CI/CD with seamless GitHub integration |
-| **Maintain** | — | Regular updates driven by real user feedback |
-
-This pipeline allows us to go from idea to deployed product in hours, not weeks — without sacrificing code quality or user experience.
-
----
 
 ## Principles
 
